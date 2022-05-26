@@ -9,6 +9,9 @@ import org.apache.flink.api.java.operators.UnsortedGrouping;
 import org.apache.flink.api.java.tuple.Tuple2;
 import org.apache.flink.util.Collector;
 
+/**
+ * dataSet api 被弃用统一使用 dataStream api 处理
+ */
 public class BatchWordCount {
 
     public static void main(String[] args) throws Exception {
