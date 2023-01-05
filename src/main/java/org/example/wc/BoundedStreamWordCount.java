@@ -11,6 +11,7 @@ import org.apache.flink.util.Collector;
 import sun.security.provider.Sun;
 
 /**
+ * 批处理
  * 有界流处理
  */
 public class BoundedStreamWordCount {
