@@ -1,0 +1,3 @@
+sensor1, 1, 28.5
+sensor2, 2, 31.0
+sensor3, 3, 27.2
